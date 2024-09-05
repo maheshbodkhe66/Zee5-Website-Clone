@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a clone of the ZEE5 website, a popular streaming platform. The clone demonstrates basic web development skills including HTML, CSS, JavaScript, and Bootstrap. It is intended for educational purposes to help understand the structure and design of modern streaming websites.
+This project involves creating a replica of the ZEE5 website, a well-known streaming platform. The goal of this clone is to showcase fundamental web development skills, including proficiency in HTML, CSS, JavaScript, and Bootstrap. By developing this clone, you will gain a deeper understanding of the structure and design principles commonly used in modern streaming websites. This project is intended for educational purposes, providing valuable hands-on experience in building and styling web applications similar to popular streaming services.
 
 ## Features
 
