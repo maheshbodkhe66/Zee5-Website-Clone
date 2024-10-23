@@ -1,4 +1,4 @@
-## ZEE5 Website Clonee
+## ZEE5 Website Clone
 
 ## Overview
 
