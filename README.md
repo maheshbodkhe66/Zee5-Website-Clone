@@ -17,7 +17,7 @@ This project involves creating a replica of the ZEE5 website, a well-known strea
 2. **Content Sections**: Each section showcases media items. You can hover over items to see more details.
 3. **Navigation**: The navigation bar provides links to different sections of the website.
 
-## Technologies Used
+## Technologies Used.
 
 - **HTML**: Markup language used for structuring the content.
 - **CSS**: Stylesheet language used for designing the visual layout.
