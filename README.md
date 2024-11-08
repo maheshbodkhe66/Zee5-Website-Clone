@@ -29,7 +29,7 @@ This project involves creating a replica of the ZEE5 website, a well-known strea
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 
-## Contact
+## Contact.
 
 For any questions or feedback, please contact maheshbodkhe66@gmail.com
 
