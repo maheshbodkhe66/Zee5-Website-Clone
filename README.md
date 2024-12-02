@@ -10,7 +10,7 @@ This project involves creating a replica of the ZEE5 website, a well-known strea
 - **Basic Interactivity**: Hover effects and simple JavaScript interactions for a dynamic user experience.
 
 
-## Usage.
+## Usage..
 
 1. **Homepage**: The main page displays a navigation bar, featured media, and content sections.
 2. **Content Sections**: Each section showcases media items. You can hover over items to see more details.
